@@ -1,0 +1,4 @@
+Juan, 6.5 
+Daniel, 10 
+Pedro, 2.5 
+Ramces, 100 

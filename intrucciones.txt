@@ -1,0 +1,8 @@
+Hacer el ejecutable
+gcc programa1.c
+
+Hacer el ejecutable con un nombre en especifico
+gcc NombredelArchivo.c -o NombreDelEjecutable
+
+ejecutar el archivo
+./a.out
